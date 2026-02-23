@@ -12,7 +12,7 @@ En este repositorio se encontraran mis actividades de la materia de programació
 
 - Tarea_2: Newsletter con estilos CSS.
 
-  **url:** https://vanessacpgz-hub.github.io/Programaci-n_Web/Tarea_2/
+**url:** https://vanessacpgz-hub.github.io/Programaci-n_Web/Tarea_2/
   
 - Tarea_3: Newsletter con mejoras de diseño.
 
